@@ -84,3 +84,10 @@ Kelas : TI 22.A3
 ## Output Hapus data
 
 <img width="485" alt="UAS4" src="https://user-images.githubusercontent.com/110619093/211191282-9805e9d3-0b62-4564-934f-9594906c4d1c.png">
+
+# Dokumentasi
+## YouTube
+
+[Ada disini](https://youtu.be/43al3inNVv8)
+
+## PDF
