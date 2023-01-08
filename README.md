@@ -91,3 +91,5 @@ Kelas : TI 22.A3
 [Ada disini](https://youtu.be/43al3inNVv8)
 
 ## PDF
+
+[Ada disini](https://drive.google.com/file/d/1JfbO9kp4N3SlXICB7yNFujw4wQSMg8Nf/view?usp=sharing)
