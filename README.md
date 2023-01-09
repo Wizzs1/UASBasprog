@@ -65,6 +65,46 @@ Kelas : TI 22.A3
 
 - lalu cetak ```print()```
 
+Setelah semua tadi sekarang saatnya menjalankan program main.py
+
+    from Model.daftar_nilai import *
+    from View.view_nilai import *
+
+    #Mulai
+    print("===============================================================")
+    print("|                           Program                           |")
+    print("===============================================================")
+    
+     while True:
+         print("\n")
+         menu = input("(L) Lihat, (T) Tambah, (H) Hapus, (U) Ubah, (C) Cari, (K) Keluar\nPilih menu: ")
+         print("\n")
+
+      # menu
+      if menu.lower() == 't':
+          tambah_data()
+
+      elif menu.lower() == 'c':
+          cari_data()
+
+      elif menu.lower() == 'l':
+          lihat_data()
+
+      elif menu.lower() == 'u':
+          ubah_data()
+
+      elif menu.lower() == 'h':
+          hapus_data()
+
+      # Keluar
+      elif menu.lower() == 'k':
+          break
+
+      else:
+          print("Upss ada yang salah, silahkan cek kembali.")
+
+
+
 ## Output Tambah data
 
 <img width="869" alt="UAS " src="https://user-images.githubusercontent.com/110619093/211191096-9a116aeb-8cd8-42a8-af68-ea823365812a.png">
